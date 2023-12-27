@@ -36,11 +36,23 @@ EDA involved exploring the sales data to answer key questions, such as:
 2. Which month got the highest sales & orders?
 3. Who purchased more - Men or Women in the year 2022?
 4. What are different order status in year 2022?
-5.List top 5 states contributing to the sales.
+5.List top 3 states contributing to the sales.
 6. Relation between age and gender based on numbers.
 7. Which channel is contributing to maximum sales?
 8. Highest selling category?
 
 
-## Objective
-Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand thier customers and grow more sales in 2023.
+### Results/Findings
+
+
+The analysis results are summarized as follows:
+
+- Store sales and orders increased the most in the month of March.
+- Women are more likely to buy compared to men (65%).
+- Maharashtra, Karnataka, and Uttar Pradesh are the top 3 contributer of total sales.
+- Amazon, Flipkart and Myntra channels are max contributer.
+- Set, Kurta and Western dress are the top most selling categories.
+
+### Final Conclusion to improve Vrinda Store Sales:
+- Target women customers of age group (30-49 yrs) living in Maharashra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, flipkart and Myntra. 
+
