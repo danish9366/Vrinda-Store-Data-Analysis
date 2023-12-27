@@ -4,6 +4,10 @@
 
 This Data analysis project aims to provide insights into the sales performance of Vrinda store in 2022. By analyzing various aspects of the sales data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the store performance.
 
+
+![Dashboard](https://github.com/danish9366/Vrinda-Store-Data-Analysis/assets/115393518/de737248-11f8-47e9-8fe9-9d95529a9347)
+
+
 ### Data Sources
 
 
